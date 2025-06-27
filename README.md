@@ -1,0 +1,2 @@
+# Api-ChatGPT_Delfino
+API A BASE DE CONSUMO API CHATGPT
